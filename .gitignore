@@ -1,0 +1,16 @@
+# 编译工具链：用 tools-setup.ps1 下载（约 110 MB），不进仓库
+_tools/
+
+# 生成物
+build/app.ico
+build/*.png
+
+# 个人配置（每个人不一样，程序首次运行会自动生成）
+SnipTranslate.ini
+
+# 杂项
+*.log
+*.tmp
+*.user
+*.suo
+.vs/
